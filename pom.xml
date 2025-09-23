@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>loan</artifactId>
+	<artifactId>Loan</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>loan</name>
 	<description>Demo project for Spring Boot</description>
@@ -51,6 +51,11 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
+		</dependency>
+		<dependency>
+			<groupId>io.github.cdimascio</groupId>
+			<artifactId>dotenv-java</artifactId>
+			<version>3.2.0</version>
 		</dependency>
 	</dependencies>
 
