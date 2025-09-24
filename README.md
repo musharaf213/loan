@@ -20,7 +20,7 @@ Dieser Spring Boot Service ermöglicht das Erstellen von Kredit-Requests und das
    - Entpacke die ZIP-Datei.
    - Importiere diese in eine IDE (hier wurde Intellij verwendet).
       ```
-2. **LoanApplication direkt ausführen oder mit Maven das Projekt bauen und starten**
+2. **Loan-Application direkt ausführen oder mit Maven das Projekt bauen und starten**
    ```sh
    mvn spring-boot:run
    ```
