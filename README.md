@@ -64,7 +64,7 @@ Request wurden mithilfe von Postman (JSON) erstellt und getestet.
   ```
 
 ## Datenbank
-Die Anwendung nutzt eine embedded H2-Datenbank. Die Konsole ist unter `http://localhost:8080/h2-console` verfügbar mit username: **user** und password: **password**.
+Die Anwendung nutzt eine embedded H2-Datenbank. Die Konsole ist unter `http://localhost:8080/h2-console` verfügbar mit JDBC-URL: **jdbc:h2:mem:dcbapp**, username: **user** und password: **password**.
 
 ## Fehlerbehandlung (Exception)
 - Falls der Kreditbetrag nicht zwischen 500 und 12000.50 liegt, gibt die API eine Exception zurück.
