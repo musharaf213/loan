@@ -19,8 +19,12 @@ Dieser Spring Boot Service ermöglicht das Erstellen von Kredit-Requests und das
    - Lade die Projektdateien als ZIP-Datei herunter.
    - Entpacke die ZIP-Datei.
    - Importiere diese in eine IDE (hier wurde Intellij verwendet).
+   
+   oder mit git
+   - git clone https://github.com/musharaf213/loan.git
+   
       ```
-2. **LoanApplication direkt ausführen oder mit Maven das Projekt bauen und starten**
+2. **Loan-Application direkt ausführen oder mit Maven das Projekt bauen und starten**
    ```sh
    mvn spring-boot:run
    ```
