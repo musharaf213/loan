@@ -15,7 +15,7 @@ Dieser Spring Boot Service ermöglicht das Erstellen von Kredit-Requests und das
 
 ## Installation und Ausführung
 1. **Projekt entpacken und importieren**
-   ```sh
+   ```
    - Lade die Projektdateien als ZIP-Datei herunter.
    - Entpacke die ZIP-Datei.
    - Importiere diese in eine IDE (hier wurde Intellij verwendet).
